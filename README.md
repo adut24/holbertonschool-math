@@ -3,10 +3,10 @@
 This repository is used for the optional maths projects.
 
 Only one was done:
-- 0x00. Math - Complex.
+- [0x00. Math - Complex](./0x00-math_complex/)
 
 ## Learning Objectives
-### 0x00. Math - Complex
+### [0x00. Math - Complex](./0x00-math_complex/)
 - Algebra operations.
 - Absolute values.
 - Cosinus and Sinus.
